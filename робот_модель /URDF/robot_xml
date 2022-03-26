@@ -1,0 +1,1 @@
+In order for the sensors to be displayed correctly, it is necessary to use two robots files.xacro and robots.gazebo.xacro
